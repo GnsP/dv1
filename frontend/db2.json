@@ -1,0 +1,38 @@
+{"artists":
+    [
+        {
+            "id": 1,
+            "name": "Mary Kae",
+            "style": "Hip Hop",
+            "crew": "Lady Bee",
+            "country": "Taiwan",
+            "City": "Taipei",
+            "about": "uvgnkuhxmkbvjksfcknjhlsnkjvnnvkhxmlc",
+            "image": "~/assets/mariekaae1.jpg"
+            
+        },
+        {
+            "id": 2,
+            "name": "Ju Ann",
+            "style": "Hip Hop",
+            "crew": "Merry Monarch",
+            "country": "Taiwan",
+            "City": "Taipei",
+            "about": "uvgnkuhxmkbvjksfcknjhlsnkjvnnvkhxmlc",
+            "image": "~/assets/juann.jpg"
+            
+        },
+        {
+            "id": 3,
+            "name": "Kyoka Rushball",
+            "style": "Hip Hop",
+            "crew": "Rushball",
+            "country": "Japan",
+            "City": "Tokyo",
+            "about": "uvgnkuhxmkbvjksfcknjhlsnkjvnnvkhxmlc",
+            "image": "~/assets/kyoka.jpg"
+            
+        }
+
+    ]
+}

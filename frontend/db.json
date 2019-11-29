@@ -1,0 +1,57 @@
+{"events":
+    [
+        {
+            "id": 123,
+            "user": {
+                "id": "1",
+                "name": "Ju Ann"
+            },
+            "category": "Hip Hop and House 1 on 1",
+            "organiser": "Ju Ann",
+            "title": "Soul Vibration",
+            "location": "Taipei",
+            "date": "1st May",
+            "time": "9:00 AM to 8 PM"
+        },
+        {
+            "id": 234,
+            "user": {
+                "id": "2",
+                "name": " battala"
+            },
+            "category": " Free Style Battle",
+            "organiser": "Battala",
+            "title": "Random Circlez",
+            "location": "Germany",
+            "date": "24th October",
+            "time": "9:00 AM to 8 PM"
+        },
+        {
+            "id": 345,
+            "user": {
+                "id": "3",
+                "name": "River"
+            },
+            "category": " Open Styles 1 on 1 battle",
+            "organiser": "River",
+            "title": "In My Groove",
+            "location": "India",
+            "date": "22nd July",
+            "time": "9:00 AM to 8 PM"
+        },
+        {
+            "id": 456,
+            "user": {
+                "id": "4",
+                "name": "Ju Ann"
+            },
+            "category": " House 1 on 1 battle",
+            "organiser": "Ju Ann",
+            "title": "Soarstice",
+            "location": "Taipei",
+            "date": "22nd July",
+            "time": "9:00 AM to 8 PM"
+        }
+    
+    ]
+}
